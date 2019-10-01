@@ -1,2 +1,3 @@
 I write it for learning rebase!
 second time rebase!
+third time rebase! edit
