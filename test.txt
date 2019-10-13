@@ -2,3 +2,4 @@ I write it for learning rebase!
 second time rebase!
 THird time rebase! edit
 exercise on practicing!
+exercise on merge
